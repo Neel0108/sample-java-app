@@ -12,6 +12,7 @@
 	<artifactId>sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sample</name>
+	<packaging>war</packaging>
 	<description>Sample Java Application</description>
 
 	<properties>
